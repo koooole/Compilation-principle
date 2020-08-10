@@ -3,6 +3,6 @@ University Coursr, Compilation principle, inclueds four experiments and one proj
 
 #### experiments: <br>  
   	* Lexical_analysis <br>  
- 	 	* XLEX_Generaor <br>  
+    * XLEX_Generaor <br>  
   	* tiny <br>  
   	* SLR1
