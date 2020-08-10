@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/dots">
+        <file>dots/dfa.dot</file>
+        <file>dots/mindfa.dot</file>
+        <file>dots/nfa.dot</file>
+    </qresource>
+</RCC>

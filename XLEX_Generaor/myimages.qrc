@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/dfa.jpg</file>
+        <file>images/mindfa.jpg</file>
+        <file>images/nfa.jpg</file>
+    </qresource>
+</RCC>
