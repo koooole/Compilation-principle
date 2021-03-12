@@ -6,3 +6,9 @@ University Coursr, Compilation principle, inclueds four experiments and one proj
     * XLEX_Generaor  
   	* tiny
   	* SLR1
+
+#### project: <br>
+   * Mini C
+
+#### 实现
+  Windows10 + QT
