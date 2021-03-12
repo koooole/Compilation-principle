@@ -4,11 +4,11 @@ University Coursr, Compilation principle, inclueds four experiments and one proj
 #### experiments: <br>  
     * Lexical_analysis
     * XLEX_Generaor  
-  	* tiny
-  	* SLR1
+  	 * tiny
+  	 * SLR1
 
 #### project: <br>
-   * Mini C
+    * Mini C
 
-#### 实现
-  Windows10 + QT
+#### 实现: <br>
+    * Windows10 + QT
